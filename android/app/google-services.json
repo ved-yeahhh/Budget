@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "52636595740",
+    "project_id": "budgetapp2-d543c",
+    "storage_bucket": "budgetapp2-d543c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52636595740:android:36b8784ce1b7ef35e8d1d9",
+        "android_client_info": {
+          "package_name": "com.codingliquids.budgetAppComplete_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52636595740-q864v7mqshm036crivc2cjg9qk9s32qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpNt2XBIGse5DsP9EHd1UX091qLUI7bCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52636595740-q864v7mqshm036crivc2cjg9qk9s32qm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "52636595740-44jses34g9jkkeohtpgk9lild8kkg287.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codingliquids.budgetAppStarting"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52636595740:android:33910489520f02d2e8d1d9",
+        "android_client_info": {
+          "package_name": "com.codingliquids.budgetappstarting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52636595740-1oa8dsviruid8srjdnv8fmvi5spichgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingliquids.budgetappstarting",
+            "certificate_hash": "d96f4c104e70168a1921f493447bc30e30117cfd"
+          }
+        },
+        {
+          "client_id": "52636595740-q864v7mqshm036crivc2cjg9qk9s32qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpNt2XBIGse5DsP9EHd1UX091qLUI7bCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52636595740-q864v7mqshm036crivc2cjg9qk9s32qm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "52636595740-44jses34g9jkkeohtpgk9lild8kkg287.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codingliquids.budgetAppStarting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
